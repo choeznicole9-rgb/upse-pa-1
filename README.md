@@ -2,7 +2,7 @@
 Práctica de Programacion Avanzada 1 - UPSE
 
 
-Luis Torres
+Nicole Choez
 
 
 # Cómo ejecutar este proyecto
