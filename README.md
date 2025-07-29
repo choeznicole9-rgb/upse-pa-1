@@ -4,7 +4,7 @@ Práctica de Programacion Avanzada 1 - UPSE
 
 
 Luis Torres
-
+NICOLE
 
 # Cómo ejecutar este proyecto
 
